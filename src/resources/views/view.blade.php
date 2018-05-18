@@ -1,0 +1,1 @@
+This is demo view file for Bantenprov\RetribusiOnline package using blade template
